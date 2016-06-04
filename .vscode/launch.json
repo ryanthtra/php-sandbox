@@ -12,7 +12,7 @@
       "name": "Launch currently open script",
       "type": "php",
       "request": "launch",
-      "program": "${workspaceRoot}/first.php",
+      //"program": "${workspaceRoot}/first.php",
       "cwd": "${workspaceRoot}",
       "port": 9000
       //"stopOnEntry": true
